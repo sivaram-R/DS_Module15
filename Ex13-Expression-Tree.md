@@ -13,12 +13,11 @@ To write a C function to construct an Expression Tree for the given Postfix Expr
 7. End   
 
 ## Program:
-
-Program to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014 
-
 ```
+Program to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
+
 struct n { 
 char d; 
 struct n *l; 
