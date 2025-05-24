@@ -19,8 +19,8 @@ child pointer.
 ## Program:
 
 Program to insert the elements in the binary search tree
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 
 ```
 struct node { 
