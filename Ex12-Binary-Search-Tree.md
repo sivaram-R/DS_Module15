@@ -17,12 +17,11 @@ child pointer.
 8. End 
 
 ## Program:
-
+```
 Program to insert the elements in the binary search tree
 Developed by: SIVARAM R
 RegisterNumber: 212222100050
 
-```
 struct node { 
 int key; 
 struct node *left, *right; 
