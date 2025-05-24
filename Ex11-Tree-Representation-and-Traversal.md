@@ -13,11 +13,11 @@ To write a C function to perform post order traversal of a binary tree.
 7. End   
 
 ## Program:
-
-Program to perform post order traversal of a binary tree.
-# Developed by: Jayamani R
-# RegisterNumber: 212222100014  
 ```
+Program to perform post order traversal of a binary tree.
+Developed by: Jayamani R
+RegisterNumber: 212222100014
+
 struct node 
 { 
 int value; 
